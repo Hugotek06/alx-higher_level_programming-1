@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Author - Dabwiso Daka
+# Author - Daliso Daka
 
 
 
