@@ -1,0 +1,1 @@
+This repository contains examples of Python classes that demonstrate various object-oriented programming (OOP) concepts. The examples cover class inheritance, encapsulation, polymorphism, and other important concepts.
