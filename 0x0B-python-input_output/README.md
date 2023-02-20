@@ -1,0 +1,2 @@
+This repository contains examples and explanations of Input/Output (I/O) in Python.
+Python is a programming language that is widely used for developing applications in different domains. It has a user-friendly syntax that makes it easy to learn and use. One of the essential components of any programming language is Input/Output (I/O). I/O refers to the way data is received from the user or sent to the user from a program. Python provides various functions to handle I/O, and this repository provides examples and explanations of these functions.
